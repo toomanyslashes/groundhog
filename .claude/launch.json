@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Remotion Studio",
+      "runtimeExecutable": "/bin/bash",
+      "runtimeArgs": ["promo-video/start-studio.sh"],
+      "port": 3000
+    }
+  ]
+}
